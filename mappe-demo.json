@@ -1,0 +1,28 @@
+[
+  {
+    "id": 0,
+    "nome": "Mappa I — Brancati",
+    "descr": "Questa è un'immagine di prova",
+    "lat": 43.90131,
+    "lon": 12.90529,
+    "immagine": "https://raw.githubusercontent.com/lorenzo-poderi/mappe-tesoro/refs/heads/main/mappa-demo-brancati.jpg",
+    "soluzione": "MONTE",
+    "visibile": true,
+    "searching": false,
+    "tesoroTrovato": false,
+    "suggerimentiAttivi": false
+  },
+  {
+    "id": 1,
+    "nome": "Mappa II — Manzi",
+    "descr": "Questa è un'immagine di prova",
+    "lat": 43.90269,
+    "lon": 12.90507,
+    "immagine": "https://raw.githubusercontent.com/lorenzo-poderi/mappe-tesoro/refs/heads/main/mappa-demo-manzi.jpg",
+    "soluzione": "MARE",
+    "visibile": true,
+    "searching": false,
+    "tesoroTrovato": false,
+    "suggerimentiAttivi": false
+  }
+]
